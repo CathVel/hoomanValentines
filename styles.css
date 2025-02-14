@@ -11,13 +11,13 @@ body {
 
 #noButton {
     position: absolute;
-    margin-left: 150px;
+    left: 60%;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
-    margin-right: 150px;
+    right: 60%;
 }
 
 /* Cute Bubble Header Text */
