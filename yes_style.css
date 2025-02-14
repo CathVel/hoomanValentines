@@ -1,0 +1,27 @@
+/* Import a cute bubble font */
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Baloo+2:wght@400;600&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #FADADD; /* Soft pastel pink */
+}
+
+.header_text {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-shadow: 3px 3px 5px rgba(255, 182, 193, 0.6); /* Soft shadow effect */
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
